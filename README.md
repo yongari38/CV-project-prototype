@@ -8,6 +8,7 @@
 - [ ] optimize multiprocessing threading
 - [ ] organize console progressbar
 - [ ] add "requirements.txt"
+- [ ] fix non-ascii character bug
 
 ## 사용방법:
 
