@@ -4,7 +4,7 @@
 ## ToDo
 - [ ] make different output Dir on each query
 - [ ] modify output to timestamp of the frame
-- [x] enable multiprocessing for faceRex
+- [x] enable multiprocessing for faceRec
 - [ ] optimize multiprocessing threading
 - [ ] organize console progressbar
 - [ ] add "requirements.txt"
